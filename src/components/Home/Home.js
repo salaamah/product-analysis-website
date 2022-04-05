@@ -6,7 +6,7 @@ import './Home.css';
 
 const Home = () => {
     const [reviews, setReviews] = useReviews();
-    const newReviews = reviews.slice(0,3);
+    const newReviews = reviews.slice(3,6);
     return (
         <div>
             <section id='main-section'>                    
@@ -25,6 +25,7 @@ const Home = () => {
                     ></ReviewCompo>)
                 }
             </section>
+            
         </div>
     );
 };
