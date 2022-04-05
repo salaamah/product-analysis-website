@@ -10,13 +10,15 @@ const Home = () => {
     return (
         <div>
             <section id='main-section'>                    
-                <div>
-                    <h1>Induction Burner 2000W<br></br>Gic33013 Black/Red</h1>
+                <div className='main-para'>
+                    <h1>Enjoy fast,<br></br>precise cooking</h1>
+                    <p>The GEEPAS cooker is a programmable stove that has a timer function which allows you to set up the cooker up to 2 hours. It will automatically turn off when the timer is off. Plus, this cooker allows maximum control over the heat and texture of food and heats up instantly to the required temperature</p>
                 </div>
                 <div>
                     <img src={geepas} alt='burner'></img>
                 </div>
             </section>
+            <hr></hr>
             <section id ='review-section'>
                 <h1>Customer Reviews({newReviews.length})</h1>
                 {
@@ -25,7 +27,7 @@ const Home = () => {
                     ></ReviewCompo>)
                 }
             </section>
-            
+
         </div>
     );
 };

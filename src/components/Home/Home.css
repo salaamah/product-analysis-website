@@ -1,8 +1,15 @@
 #main-section img{
-    height: auto;
-    width: auto;
+    height: 550px;
+    width: 450px;
 }
 #main-section{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+}
+.main-para {
+    height: 550px;
+    width: 450px;
+}
+.main-para p{
+    font-size:x-large;
 }
