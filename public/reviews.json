@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Pritom",
+        "body": "Tested the amp draw of this and it only pulls 10A at 120V equaling 1200w. Disappointed with the false advertising.",
+        "rating": 4
+    },
+    {
+        "id": 2,
+        "name": "Shafi",
+        "body": "Buttons pads don't work very well, have to push several times and kind of hard for it to work. It was a gift that I gave so I am pretty embarrassed about the product I chose, I thought I was buying a good quality device.",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "name": "Akash",
+        "body": "We used it for a hot pot dinner and it was easy and perfect. We will be doing this a lot more often.",
+        "rating": 4
+    },
+    {
+        "id": 4,
+        "name": "Salamah",
+        "body": "This is a great cooktop that is convenient to use. It is very powerful and boil the water so fast. Very handy, you can bring it when you travel. Clean up is easy. If the pot is not fit to this cooktop, it will give you the error code. This small stove is perfect for the hot pot.",
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "name": "Shams",
+        "body": "This product makes it very convenient to cook stuff just about anywhere inside the house. My wife uses it to cook hotpot on the dining table. The temperature is very easy to control, and it is very easy to clean. No smell. So far, it's been quite reliable. We love it!",
+        "rating": 4
+    },
+    {
+        "id": 6,
+        "name": "Hridoy",
+        "body": "Absolutely love it, control of cooking is easy now and food is perfect. Love it. My burners are bad on electric stove and only have one burner to use, can’t afford a new stove yet, but after using this my stove will be convection",
+        "rating": 4
+    }
+]

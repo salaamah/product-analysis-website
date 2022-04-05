@@ -1,0 +1,8 @@
+#main-section img{
+    height: auto;
+    width: auto;
+}
+#main-section{
+    display: flex;
+    justify-content: center;
+}
